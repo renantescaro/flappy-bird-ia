@@ -2,7 +2,8 @@
 
 Jogo estilo Flappy Bird em Python (pygame), com uma rede neural que aprende a jogar sozinha por neuroevolução.
 
-![Uploading Sleekshot 2026-11-23 14-12-28.png…]()
+<img width="781" height="629" alt="Sleekshot 2026-11-23 14-12-28" src="https://github.com/user-attachments/assets/dc66f60c-656b-45f7-9d9e-90a04d855d3f" />
+
 
 
 ## Instalação
